@@ -50,5 +50,5 @@ Este projeto em C# é um aplicativo de console que classifica o nível de um her
 ## Tecnologias Utilizadas
 
 - C#
-- .NET 6.0 ou superior
+- .NET 8.0
    
