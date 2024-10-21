@@ -1,0 +1,14 @@
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classificador-Heroi\ClassificadorHeroi\bin\Debug\net8.0\ClassificadorHeroi.exe
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classificador-Heroi\ClassificadorHeroi\bin\Debug\net8.0\ClassificadorHeroi.deps.json
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classificador-Heroi\ClassificadorHeroi\bin\Debug\net8.0\ClassificadorHeroi.runtimeconfig.json
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classificador-Heroi\ClassificadorHeroi\bin\Debug\net8.0\ClassificadorHeroi.dll
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classificador-Heroi\ClassificadorHeroi\bin\Debug\net8.0\ClassificadorHeroi.pdb
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classificador-Heroi\ClassificadorHeroi\obj\Debug\net8.0\ClassificadorHeroi.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classificador-Heroi\ClassificadorHeroi\obj\Debug\net8.0\ClassificadorHeroi.AssemblyInfoInputs.cache
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classificador-Heroi\ClassificadorHeroi\obj\Debug\net8.0\ClassificadorHeroi.AssemblyInfo.cs
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classificador-Heroi\ClassificadorHeroi\obj\Debug\net8.0\ClassificadorHeroi.csproj.CoreCompileInputs.cache
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classificador-Heroi\ClassificadorHeroi\obj\Debug\net8.0\ClassificadorHeroi.dll
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classificador-Heroi\ClassificadorHeroi\obj\Debug\net8.0\refint\ClassificadorHeroi.dll
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classificador-Heroi\ClassificadorHeroi\obj\Debug\net8.0\ClassificadorHeroi.pdb
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classificador-Heroi\ClassificadorHeroi\obj\Debug\net8.0\ClassificadorHeroi.genruntimeconfig.cache
+D:\ProjetosEstudos\DIO_dotnet\Desafio-Classificador-Heroi\ClassificadorHeroi\obj\Debug\net8.0\ref\ClassificadorHeroi.dll
